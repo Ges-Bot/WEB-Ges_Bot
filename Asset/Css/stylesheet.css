@@ -1,0 +1,74 @@
+*{
+    color: var(--font_color);
+    padding: 0;
+    margin: 0;
+}
+:root{
+    --font_size : 14px;
+    --font_color : #E1C5B1;
+}
+.cureent-ver-main{
+    display: flex;
+    width: 96rem;
+    height: 27.08rem;
+    padding: 0rem 0rem 17.75rem 0rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 6.5625rem;
+    background: linear-gradient(148deg, rgba(25, 41, 105, 0.20) 38.27%, rgba(225, 197, 177, 0.00) 100%, rgba(225, 197, 177, 0.07) 100%), #242323;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Tool-for-stud{
+    height: 2rem;
+}
+.Add-to-serv{
+    height: 2rem;
+}
+#Logo-mid{
+    background-color: #2C2C2C80;
+    border-radius: 260px;
+    width: 10rem;
+}
+.BTN-Type{
+    display: flex;
+    width: 11.25rem;
+    height: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 90px;
+    border: 2px solid #192969;
+    background: rgba(217, 217, 217, 0.00);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-size: var(--font_size);
+    color: var(--font_color);
+}
+.BTN-Type-Statut{
+    display: flex;
+    width: 11.25rem;
+    height: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 90px;
+    border: 2px solid rgba(238, 238, 238, 0.93);
+    background: rgba(217, 217, 217, 0.00);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-size: var(--font_size);
+    color: var(--font_color);
+}
+.Mid{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+}
+.Green-Circle {
+    width: 1.5rem;
+    height: 1.5rem;
+    flex-shrink: 0;
+    border-radius: 24px;
+    background: green;
+}
