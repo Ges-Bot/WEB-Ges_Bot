@@ -2,9 +2,9 @@
     padding: 0;
     margin: 0;
 }
-.top{
+.top-nav-top{
     display: flex;
-    width: 100rem;
+    width: 90rem;
     height: 10rem;
     justify-content: flex-start;
     align-items: center;
@@ -21,7 +21,7 @@
     align-items: center;
     flex-shrink: 0;
 }
-.Mid{
+.top-nav-Mid{
     display: flex;
     width: 22.375rem;
     height: 2.3125rem;

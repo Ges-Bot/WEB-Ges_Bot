@@ -8,19 +8,19 @@
 </head>
 <body>
     <div class="cureent-ver-main">
-      <?php include 'Top-Bar.php'?>
+      <?php include 'Asset/Componant/Top-Bar.html'?>
         <div class="Mid">
           <div class="group-3">
             <div class="ellipse-1"></div>
-            <img id="Logo" src="Asset/Img/Logo-BOTGES-NoBack.png"/>
+            <img id="Logo-mid" src="Asset/Img/Logo-BOTGES-NoBack.png"/>
           </div>
           <div class="Tool-for-stud">
             Un outil pour aider les etudiants
           </div>
-          <div class="add-to-servv">
+          <div class="add-to-serv">
             <div class="group-6">
               <div class="support4"></div>
-              <button class="BTN-Type" type="">Ajoute le a ton serveur ?</button>
+              <button class="BTN-Type">Ajoute le a ton serveur ?</button>
             </div>
           </div>
         </div>
